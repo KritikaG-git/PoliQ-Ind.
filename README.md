@@ -52,7 +52,7 @@ The system used a modular agent design for query routing, data access, and visua
 
 ## Project Documentation
 
-[Final Report (PDF)](data/PoliQ report ind..pdf)  
+[Final Report (PDF)](data/PoliQ_report.pdf)  
 Architecture Diagram: `/assets/system arch..png`
 
 ---

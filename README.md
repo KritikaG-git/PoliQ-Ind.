@@ -27,7 +27,7 @@ We collaborated with PoliQ to expand the capabilities of their existing platform
 
 The system used a modular agent design for query routing, data access, and visualization:
 
-![System Architecture](assets/system_arch..png)
+![System Architecture](assets/archDiagram.png)
 
 ### Architecture Components:
 - **Chat UI (Chatbot + Query)**: User interface for querying structured and unstructured data

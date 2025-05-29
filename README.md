@@ -54,7 +54,9 @@ The system used a modular agent design for query routing, data access, and visua
 
 [Final Report (PDF)](data/PoliQ_report.pdf)  
 Architecture Diagram: `/assets/system arch..png`
+
 Project: https://github.com/rajnaruka06/PoliQ
+Polimap: https://github.com/PoliMap-Pro
 
 ---
 
